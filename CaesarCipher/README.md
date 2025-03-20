@@ -13,7 +13,8 @@ This project is intended to be used in Google Colab, there is no need for any in
 You can open the project directly using the CaesarCipher.ipynb folder in this repository which directs to Google Colab or using this link <a href="https://colab.research.google.com/drive/1wS_9nJbkDQgyUfBK_pS1rjc_W1-dYOwH">Click here</a> <br>
 
 <b>Output</b><br>
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/e8a5fdbe-58ee-4b44-bb06-02b05d8e1d64" />
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/a477a7db-13e0-4cad-94b3-412e8a48d9a8" />
+
 
 
 
