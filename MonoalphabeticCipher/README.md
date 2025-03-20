@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the Monoalphabetic Cipher, a type of substitution cipher where each letter in the plaintext is replaced with a fixed corresponding letter from a scrambled alphabet.
+This implements the Monoalphabetic Cipher, a type of substitution cipher where each letter in the plaintext is replaced with a fixed corresponding letter from a scrambled alphabet.
 
 ## Features
 
