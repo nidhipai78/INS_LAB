@@ -16,7 +16,8 @@ Install the required dependencies:
     This project uses NumPy for matrix operations.<br>
            pip install numpy<br>
 Run the program: 
- - The program could be run using Google Collab. The link for the program is https://colab.research.google.com/github/nidhipai78/HillCipher/blob/main/Hill_Cipher.ipynb
+ - The program could be run using Google Collab. The link for the program is
+   https://colab.research.google.com/drive/1gWEL1vhomaNRyuj_s_GCe8nfvbbvsOBy
 
 - This program can also be run using GitHub Codespaces using the file HillCipher.ipynb
 
