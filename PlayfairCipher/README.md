@@ -14,8 +14,12 @@ The Playfair Cipher is a digraph substitution cipher. It encrypts pairs of lette
 
 ## Setup and Requirements
 - To run the Playfair Cipher implementation on Google Colab, no installation of external libraries is required. 
-Click the link here to access and run the code on Google Colab <a href="https://colab.research.google.com/github/nidhipai78/PlayfairCipher/blob/main/PlayfairCipher.ipynb">Click Here</a><br>
+Click the link here to access and run the code on Google Colab <a href="https://colab.research.google.com/drive/1iMIMhkZICS1WgQRFW01PM7eag1w5JSek">Click Here</a><br>
 - This program can also be run using GitHub Codespaces for the file PlayfairCipher.ipynb
+
+## Input and Output
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/943684a9-8758-45aa-80a8-ee9613d7a709" />
+
 
 
 
