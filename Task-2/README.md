@@ -41,6 +41,10 @@ Usage
 
 5. Key Revocation
 
+## System Design Diagram
+![image](https://github.com/user-attachments/assets/51f51a0a-511e-46a0-b564-68b93b067b77)
+
+
 ## Run the Program
 This program can be run on Google Colab using this link
 https://colab.research.google.com/drive/1ZZxYbK9CRf7OZVQeA9a-KYw5lOqgct7s
