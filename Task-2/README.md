@@ -50,7 +50,8 @@ This program can be run on Google Colab using this link
 https://colab.research.google.com/drive/1ZZxYbK9CRf7OZVQeA9a-KYw5lOqgct7s
 
 ## Output
-<img width="308" alt="image" src="https://github.com/user-attachments/assets/ceff6795-7f15-4fe6-a6ff-656dc52433ef" />
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/ba286542-38e4-451b-8538-b36b055eaf8a" />
+
 
 
 ## Security Measures
@@ -63,13 +64,6 @@ https://colab.research.google.com/drive/1ZZxYbK9CRf7OZVQeA9a-KYw5lOqgct7s
 
 - Key Revocation Mechanism to revoke compromised keys.
 
-## Future Enhancements
-
-- Implement OCSP (Online Certificate Status Protocol) for real-time key revocation.
-
-- Add Digital Signatures for authentication.
-
-- Improve the revocation checking mechanism.
 
 
 
